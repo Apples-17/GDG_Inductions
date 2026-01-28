@@ -106,7 +106,7 @@ The notebook produces the following outputs:
 
 # Task 2: Analytical Chatbot (RAG & Market Explanation)
 
-## 📌 Overview
+## Overview
 
 This project implements an **Analytical Financial Chatbot** using **Retrieval-Augmented Generation (RAG)** to answer natural language questions about stock market behavior.  
 The chatbot understands user intent, identifies relevant stock tickers, retrieves contextual data (prices, trends, and news), and provides **human-readable explanations** for market movements.
@@ -115,7 +115,7 @@ The system is designed to go beyond raw numbers by explaining *why* a stock move
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To build a natural language interface that allows users to:
 
@@ -127,7 +127,7 @@ To build a natural language interface that allows users to:
 
 ---
 
-## 💬 Example Queries
+## Example Queries
 
 ### Contextual Explanation
 **User:**  
@@ -153,7 +153,7 @@ To build a natural language interface that allows users to:
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 
 - **Retrieval-Augmented Generation (RAG)**
 - **Semantic Intent Understanding**
@@ -162,7 +162,7 @@ To build a natural language interface that allows users to:
 
 ---
 
-## 🏗️ Architecture & Design
+## Architecture & Design
 
 ### Agent-Based Workflow
 
@@ -190,7 +190,7 @@ This ensures accurate, relevant, and explainable answers.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas / NumPy** – Data processing & analysis
@@ -203,6 +203,6 @@ This ensures accurate, relevant, and explainable answers.
 
 ---
 
-## 📂 Project Structure
+
 
 
